@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trin Chaemchan</h1>
-<h3 align="center">“I have experience as an embedded software engineer, but now I’m following my passion and transitioning to a career in game development.”</h3>
+<h3 align="center">“I’m currently transitioning to a career in game development, following my passion for creating engaging and interactive experiences.”</h3>
 
 - 🌱 I’m currently learning **Unity**
 
