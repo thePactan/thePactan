@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **trin.chaemchan@gmail.com**
 
-- 📄 My Resume: [View My Resume](asset/Trin_Game Developer Resume.pdf)
+- 📄 My Resume: [View My Resume](https://github.com/username/repo-name/raw/main/asset/Trin_Game%20Developer%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
